@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/posts_fragment"
+            android:title="Posts" />
+        <item
+            android:id="@+id/albums_fragment"
+            android:title="Albums" />
+        <item
+            android:id="@+id/users_fragment"
+            android:title="Users" />
+    </group>
+</menu>

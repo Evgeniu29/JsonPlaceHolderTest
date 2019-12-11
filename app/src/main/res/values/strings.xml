@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="company">Company</string>
+
+    <string name="login">Email/Mobile</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="postIdText"><u>Post ID:</u></string>
+    <string name="post">Post</string>
+    <string name="userIdText"><u>User ID:</u></string>
+    <string name="albumIdText"><u>Album ID:</u></string>
+
+    <string name="photoIdText"><u>Photo ID:</u></string>
+
+    <string name="userName"><u>User name:</u></string>
+    <string name="action_settings">Settings</string>
+
+
+
+</resources>
